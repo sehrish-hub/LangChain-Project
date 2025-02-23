@@ -1,6 +1,9 @@
 AI-Powered Chatbot using Google Gemini & LangChain
+
 📌 Project Overview
+
 This project integrates Google’s Gemini-Pro LLM with LangChain, leveraging Python to build an intelligent AI system capable of:
+
 ✅ Answering complex questions
 ✅ Summarizing text efficiently
 ✅ Generating high-quality content
