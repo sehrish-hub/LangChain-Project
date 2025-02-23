@@ -10,6 +10,7 @@ This project integrates Google’s Gemini-Pro LLM with LangChain, leveraging Pyt
 ✅ Assisting in AI-driven applications
 
 🔹 Key Technologies & Frameworks
+
 🔹 LLM (Large Language Model): gemini-pro (Google Gemini AI)
 🔹 AI Framework: LangChain for structured LLM interaction
 🔹 API Communication: langchain_google_genai for seamless Google Gemini integration
@@ -17,6 +18,7 @@ This project integrates Google’s Gemini-Pro LLM with LangChain, leveraging Pyt
 🔹 Programming Language: Python
 
 🔹 How It Works
+
 1️⃣ Secure API Key Handling – Fetches GEMINI_API_KEY securely from .env.
 2️⃣ Seamless LLM Integration – Connects with Gemini-Pro via LangChain’s ChatGoogleGenerativeAI.
 3️⃣ Intelligent Query Processing – Sends user queries to the AI model using .invoke().
